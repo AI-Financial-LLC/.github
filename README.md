@@ -1,2 +1,3 @@
-# .github
-AI Financial LLC
+# AI Financial LLC
+
+## Unleash The Power of Data
